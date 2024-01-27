@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Unknown</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Atlas Resources](https://atlasresources.site)
+- 🔭 I’m currently working on [Atlas Resources](https://atlasresources.site) and [Tr4jado Resources](https://tr4jadoresources.com.br)
 
 - 📫 How to reach me **In discord! unknown#5000**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/unknown#5000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unknown#5000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

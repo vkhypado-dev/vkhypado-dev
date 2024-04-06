@@ -5,12 +5,10 @@
 
 - 📫 How to reach me **In discord! unknown#5000**
 
-### All the projects I participate in:
-<details><summary>All the projects I participate in</summary>
+## All the projects I participate in:
   - [x] Rio Roleplay;
   - [x] Fogtz Store;
   - [x] Atlas Resources (A passive bot developer);
-</details>
 
 ### Projects I'm thinking about participating in:
   - [ ] AppSystem;

@@ -7,5 +7,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://youtube.com)
+  <img src="https://skillicons.dev/icons?i=nextjs, lua, js, ts, tailwind" />
 </p>

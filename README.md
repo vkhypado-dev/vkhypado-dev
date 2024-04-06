@@ -7,5 +7,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs, lua, js, ts, tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,lua,js,ts,tailwind" />
 </p>

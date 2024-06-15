@@ -5,11 +5,11 @@
 
 ## All the projects I participate in:
   - [x] Rio Roleplay;
-  - [x] Fogtz Store;
+  - [x] BMV Rp;
   - [x] Atlas Resources (A passive bot developer);
 
 ### Projects I'm thinking about participating in:
-  - [ ] AppSystem;
+  - [ ] N/A;
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

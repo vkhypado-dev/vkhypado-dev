@@ -4,8 +4,8 @@
 - 📫 How to reach me **In discord! unknown#5000**
 
 ## All the projects I participate in:
-  - [x] Rio Roleplay;
-  - [x] BMV Rp;
+  - [x] RIO Roleplay;
+  - [x] BMV Roleplay;
   - [x] Atlas Resources (A passive bot developer);
 
 ### Projects I'm thinking about participating in:

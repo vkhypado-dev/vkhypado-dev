@@ -4,8 +4,7 @@
 - 📫 How to reach me **In discord! @vkhypado**
 
 ## All the projects I participate in:
-  - [x] RIO Roleplay;
-  - [x] BMV Roleplay;
+  - [x] Zenith Roleplay;
   - [x] Atlas Resources (A passive bot developer);
 
 ### Projects I'm thinking about participating in:

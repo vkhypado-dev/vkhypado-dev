@@ -4,7 +4,7 @@
 - 📫 How to reach me **In discord! @vkhypado**
 
 ## All the projects I participate in:
-  - [x] Zenith Roleplay;
+  - [x] Alpha roleplay;
   - [x] Atlas Resources (A passive bot developer);
 
 ### Projects I'm thinking about participating in:

@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/vkhypado-dev/vkhypado-dev/workflows/wakatime-stats/badge.svg)](https://github.com/vkhypado-dev/vkhypado-dev/actions)
-[![Actions Status](https://github.com/vkhypado-dev/vkhypado-dev/workflows/update-gh-activity/badge.svg)](https://github.com/vkhypado-dev/vkhypado-dev/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=vkhypado-dev.vkhypado-dev)
 
 <!-- <p align="center">

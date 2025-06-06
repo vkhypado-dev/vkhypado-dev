@@ -1,6 +1,4 @@
-<p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p>
+
 
 <p align="center">
   <img src="https://socialify.git.ci/vkhypado-dev/vkhypado-dev/image?custom_description=A+passive+developer.&description=1&font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark" alt="vkhypado-dev" width="700" height="300" />

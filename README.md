@@ -22,10 +22,9 @@ currently_learning: ["Typescript", "Javascript", "LUA"]
 hobbies: ["Volei-ball", "Futebol", "Jogos"]
 ```
 
-https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31q7ykieeevu3qsnhrnbzfmpyc7u&theme=nord&logo=0&avatar=0&unique=1&album=1
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q7ykieeevu3qsnhrnbzfmpyc7u">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31q7ykieeevu3qsnhrnbzfmpyc7u&theme=nord&logo=0&avatar=0&unique=1&album=1">
 </p>
 
  Última atualização em 11/08/2025

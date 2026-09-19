@@ -22,9 +22,7 @@ currently_learning: ["Typescript", "Javascript", "LUA"]
 hobbies: ["Volei-ball", "Futebol", "Jogos"]
 ```
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q7ykieeevu3qsnhrnbzfmpyc7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=28b839&bar_color_cover=true">
-</p>
+https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31q7ykieeevu3qsnhrnbzfmpyc7u&theme=nord&logo=0&avatar=0&unique=1&album=1
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q7ykieeevu3qsnhrnbzfmpyc7u">
